@@ -1,0 +1,7 @@
+name,city,year,books
+Bright Books,New York,1995,4500
+Page Turners,San Francisco,2001,6000
+Literary Haven,Chicago,1980,7000
+The Reading Room,Boston,2005,5300
+Bookworm's Paradise,Los Angeles,1975,4800
+Novel Ideas,Seattle,2001,7000

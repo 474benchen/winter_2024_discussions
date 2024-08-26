@@ -1,0 +1,4 @@
+marina,Russia,30
+ben,Taiwan,21
+bryce,California,20
+Anish,California,18
